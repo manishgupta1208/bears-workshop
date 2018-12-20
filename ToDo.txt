@@ -3,3 +3,4 @@ Conversions functions needed
 - Gallons to Litres
 - Hours to Minutes
 - Feet to Inches
+- Degree to Radians
